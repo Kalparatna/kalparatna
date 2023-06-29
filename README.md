@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 , I am Kalparatna Mahajan</h1>
+<h1 style="color:red" align="center">Hi 👋 , I am Kalparatna Mahajan</h1>
 <h3 align="center">A passionate IT Engineering Student</h3>
 <img align="right" width=400 alt="Programming" src="https://images.app.goo.gl/tenhbXuNnRcdfMeg7 "
 <pre>
