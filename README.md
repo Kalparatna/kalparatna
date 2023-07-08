@@ -1,3 +1,4 @@
+<body style="background: Yellow">
 <h1 style="color:red" align="center">Hi 👋 , I am Kalparatna Mahajan</h1>
 <h3 align="center">A passionate IT Engineering Student</h3>
 <img align="right" width=400 alt="Programming" src="./prg.jpg"
