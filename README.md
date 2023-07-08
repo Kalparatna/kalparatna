@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT Engineering Student</h3>
 <img align="right" width=400 alt="Programming" src="./main/prg.jpg"
 <pre>
-- 🌱 I’m currently learning Advanced Java, Javascript
+- 🌱 I’m currently learning Advanced Java, Python 
 
 - LinkedIn Profile [https://www.linkedin.com/in/kalparatna-mahajan-72b45225b](https://www.linkedin.com/in/kalparatna-mahajan-72b45225b)
 
