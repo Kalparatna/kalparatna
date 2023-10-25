@@ -11,7 +11,7 @@
 
 - ☎️ How to reach me :-  kalparatna223@gmail.com
 
-- Resume [https://resume.io/r/GNLFoXkyN](https://resume.io/r/GNLFoXkyN)
+- Resume [https://resume.io/r/GNLFoXkyN](https://drive.google.com/file/d/1IAm04VY5t6_8kcP81LlGhcS1eGr7f5sh/view?usp=drivesdk)
 </pre>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
