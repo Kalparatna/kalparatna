@@ -7,7 +7,8 @@
 
 - LinkedIn Profile [https://www.linkedin.com/in/kalparatna-mahajan-72b45225b](https://www.linkedin.com/in/kalparatna-mahajan-72b45225b)
 
-- 💬 Ask me about C, C++ ,Besic java, HTML ,PHP
+- Skills:- C/C++ || Python || Data Visualisation || Flask 
+- 💬 Ask me about Besic java, Front end development, AWS Cloud computing essentials, Postman APIs.
 
 - ☎️ How to reach me :-  kalparatna223@gmail.com
 
