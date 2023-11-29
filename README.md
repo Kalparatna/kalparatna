@@ -12,7 +12,7 @@
 
 - ☎️ How to reach me :-  kalparatna223@gmail.com
 
-- Resume (https://drive.google.com/file/d/1IAm04VY5t6_8kcP81LlGhcS1eGr7f5sh/view?usp=drivesdk)](https://drive.google.com/file/d/1IAm04VY5t6_8kcP81LlGhcS1eGr7f5sh/view?usp=drivesdk)
+- Resume (https://drive.google.com/file/d/1flb2F4I6YcoiOndJp2JsxiUz7iVVYuHE/view?usp=drivesdk)
 </pre>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
