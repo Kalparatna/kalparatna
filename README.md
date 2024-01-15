@@ -5,8 +5,8 @@
 I'm 20-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on ML
-- 🌱 I’m currently learning 
-- 👯 I’m looking to forward 
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to forward try new things
 - 🤔 I’m looking for a good project
 - 💬 Ask me about Python
 - 📫 How to reach me: [kalparatna223@gmail.com](mailto:kalparatna223@gmail.com)
