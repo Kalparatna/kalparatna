@@ -2,19 +2,17 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
+I'm 20-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on YOLO v5
-- 🌱 I’m currently learning custom object detection
-- 👯 I’m looking to collaborate on Computer Vision
+- 🔭 I’m currently working on ML
+- 🌱 I’m currently learning 
+- 👯 I’m looking to forward 
 - 🤔 I’m looking for a good project
-- 💬 Ask me about Computer Vision
+- 💬 Ask me about Python
 - 📫 How to reach me: [kalparatna223@gmail.com](mailto:kalparatna223@gmail.com)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Big fan of 🌈
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
 
@@ -65,7 +63,6 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 <img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;
 <img src='https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg' alt='django' height='50'/>&nbsp;
-
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg' alt='flask' height='50'/>&nbsp;
 <img src='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg' alt='postman' height='50'/>
 
@@ -107,7 +104,7 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=RoboSpeaker&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kalparatna/RoboSpeaker)
 
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=sourabmaity'> <a href="https://github.com/SOURAB-BAPPA?tab=followers"><img src="https://img.shields.io/github/followers/sourabmaity?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=Kalparatna'> <a href="https://github.com/Kalparatna?tab=followers"><img src="https://img.shields.io/github/followers/Kalparatna?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
