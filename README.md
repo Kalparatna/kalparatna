@@ -53,7 +53,8 @@ I'm 20-year-old boy on an intention to enhance as a Python Developer. I love bui
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
     </a>
 </p>
-
+<br>
+<br>
 
 ### &nbsp;- Libraries, Frameworks, Tools  
 
@@ -65,24 +66,32 @@ I'm 20-year-old boy on an intention to enhance as a Python Developer. I love bui
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg' alt='django' height='50'/>&nbsp;
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg' alt='flask' height='50'/>&nbsp;
 <img src='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg' alt='postman' height='50'/>
+<br>
+<br>
+ ### &nbsp;<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ 
+<p align="center">
 
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+</p>
 
+<br> 
 
 
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-| ![](https://github-readme-stats.vercel.app/api?username=Kalparatna&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalparatna) |
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kalparatna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kalparatna&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalparatna&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Kalparatna" height="230px"/> |
 | --- | --- |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=Kalparatna) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalparatna" height="230px"/> | <img src="https://readme-jokes.vercel.app/api" height="230px"/> |
+| --- | --- |
 
-
-
-
-<details>
-<summary></summary>
 
 [![Tap to Reload](https://metrics.lecoq.io/sourabmaity?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Kalparatna)
 
