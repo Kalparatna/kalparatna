@@ -77,7 +77,7 @@ I'm 20-year-old boy on an intention to enhance as a Python Developer. I love bui
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=Kalparatna) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
-![Kalparatna's github activity graph](https://activity-graph.herokuapp.com/graph?username=sKalparatna&theme=react-dark&hide_border=true&area=true&bg_color=9842f5)
+
 
 
 
