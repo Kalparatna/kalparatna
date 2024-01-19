@@ -124,7 +124,7 @@ I'm 20-year-old boy on an intention to enhance as a Python Developer. I love bui
 
 
 
-[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/v3u6o6qjexr1zv9w39l6c4qq2)
+[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/31yhhonqekbyboorcnvzhst7i5iy)
 
 
 ------
