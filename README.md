@@ -97,10 +97,7 @@ I'm 20-year-old boy on an intention to enhance as a Python Developer. I love bui
 
 </details>
 
-## My Github Activity ⚡
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/styler/issues/2) in [Kalparatna/styler](https://github.com/r)
 
 <!--END_SECTION:activity-->
 
