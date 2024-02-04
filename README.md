@@ -1,6 +1,6 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Kalparatna+Mahajan..&hearts;++;Self-taught+Python-Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+<!--<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" > -->
 
 I'm 20-year-old boy on an intention to enhance as a Python Developer. I love building ML, AI and Web apps.
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
