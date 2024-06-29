@@ -56,3 +56,5 @@
   <img src='https://visitor-badge.laobi.icu/badge?page_id=Kalparatna'>
   <a href="https://github.com/Kalparatna?tab=followers"><img src="https://img.shields.io/github/followers/Kalparatna?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+
+[![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/31yhhonqekbyboorcnvzhst7i5iy)
