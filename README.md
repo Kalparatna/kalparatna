@@ -1,9 +1,5 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Kalparatna+Mahajan..&hearts;++;Self-taught+Python-Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
- ### &nbsp;-
-  ### &nbsp;-
-   ### &nbsp;-
-    ### &nbsp;-
-     ### &nbsp;-
+ 
 <!--<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" > -->
 
 I'm 20-year-old on an intention to enhance as a Python Developer. I love building ML, AI and Web apps.
@@ -33,6 +29,9 @@ I'm 20-year-old on an intention to enhance as a Python Developer. I love buildin
 ## 👨‍💻 &nbsp;Talking to Computers Using :
 
 ### &nbsp;- Languages
+### &nbsp;
+### &nbsp;
+### &nbsp;
 
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
