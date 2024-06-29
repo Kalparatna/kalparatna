@@ -53,37 +53,35 @@
 
 ## My Trending Repos 💻
 
+## My Trending Repos 💻
+
 <p align="center">
   <a href="https://github.com/Kalparatna/AgriGenius--GEN-AI-CHATBOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=AgriGenius--GEN-AI-CHATBOT&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="AgriGenius--GEN-AI-CHATBOT" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=AgriGenius--GEN-AI-CHATBOT&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="AgriGenius--GEN-AI-CHATBOT" width="400" />
   </a>
   <a href="https://github.com/Kalparatna/IPL-Team-Predictor-Web-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=IPL-Team-Predictor-Web-Application&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="IPL-Team-Predictor-Web-Application" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=IPL-Team-Predictor-Web-Application&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="IPL-Team-Predictor-Web-Application" width="400" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Kalparatna/GlobalSpeak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=GlobalSpeak&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="GlobalSpeak" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=GlobalSpeak&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="GlobalSpeak" width="400" />
   </a>
   <a href="https://github.com/Kalparatna/CCTV-Surveillance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=CCTV-Surveillance&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="CCTV-Surveillance" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=CCTV-Surveillance&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="CCTV-Surveillance" width="400" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Kalparatna/Flask-Todo-Webapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=Flask-Todo-Webapp&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="Flask-Todo-Webapp" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=Flask-Todo-Webapp&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="Flask-Todo-Webapp" width="400" />
   </a>
   <a href="https://github.com/Kalparatna/RoboSpeaker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=RoboSpeaker&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="RoboSpeaker" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=RoboSpeaker&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="RoboSpeaker" width="400" />
   </a>
 </p>
 
-<p align='center'>
-  <img src='https://visitor-badge.laobi.icu/badge?page_id=Kalparatna'>
-  <a href="https://github.com/Kalparatna?tab=followers"><img src="https://img.shields.io/github/followers/Kalparatna?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
 
 
 ## Spotify Playing 🎧
