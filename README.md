@@ -13,6 +13,8 @@
 - ⚡ Fun fact: Big fan of 🌈
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 />
 
+<img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
+
 <p align="left">
   <a href="https://www.linkedin.com/in/kalparatna-mahajan-72b45225b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalparatna_mahajan" height="30" width="40" /></a>
   <a href="https://codesandbox.com/kalparatna223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kalparatna223" height="30" width="40" /></a>
