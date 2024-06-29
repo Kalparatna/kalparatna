@@ -55,32 +55,43 @@
 
 ## My Trending Repos 💻
 
-<p align="center">
+## My Trending Repos 💻
+
+<div align="center">
+  
   <a href="https://github.com/Kalparatna/AgriGenius--GEN-AI-CHATBOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=AgriGenius--GEN-AI-CHATBOT&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="AgriGenius--GEN-AI-CHATBOT" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=AgriGenius--GEN-AI-CHATBOT&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
+  
   <a href="https://github.com/Kalparatna/IPL-Team-Predictor-Web-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=IPL-Team-Predictor-Web-Application&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="IPL-Team-Predictor-Web-Application" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=IPL-Team-Predictor-Web-Application&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
-</p>
+  
+</div>
 
-<p align="center">
+<div align="center">
+  
   <a href="https://github.com/Kalparatna/GlobalSpeak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=GlobalSpeak&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="GlobalSpeak" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=GlobalSpeak&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
+  
   <a href="https://github.com/Kalparatna/CCTV-Surveillance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=CCTV-Surveillance&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="CCTV-Surveillance" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=CCTV-Surveillance&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
-</p>
+  
+</div>
 
-<p align="center">
+<div align="center">
+  
   <a href="https://github.com/Kalparatna/Flask-Todo-Webapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=Flask-Todo-Webapp&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="Flask-Todo-Webapp" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=Flask-Todo-Webapp&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
+  
   <a href="https://github.com/Kalparatna/RoboSpeaker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=RoboSpeaker&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" alt="RoboSpeaker" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=RoboSpeaker&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
-</p>
+  
+</div>
 
 
 
