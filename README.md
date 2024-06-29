@@ -31,12 +31,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
 </p>
+
 ### Operating Systems
 
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
+
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kalparatna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kalparatna&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalparatna&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Kalparatna" height="230px"/> |
@@ -57,4 +59,5 @@
   <a href="https://github.com/Kalparatna?tab=followers"><img src="https://img.shields.io/github/followers/Kalparatna?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
+## Spotify Playing 🎧
 [![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/31yhhonqekbyboorcnvzhst7i5iy)
