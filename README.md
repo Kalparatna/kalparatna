@@ -28,10 +28,8 @@ I'm 20-year-old on an intention to enhance as a Python Developer. I love buildin
  
 ## 👨‍💻 &nbsp;Talking to Computers Using :
 
-### &nbsp;- Languages
-### &nbsp;
-### &nbsp;
-### &nbsp;
+### &nbsp; Languages
+
 
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -59,7 +57,7 @@ I'm 20-year-old on an intention to enhance as a Python Developer. I love buildin
 <br>
 <br>
 
-### &nbsp;- Libraries, Frameworks, Tools  
+### &nbsp; Libraries, Frameworks, Tools  
 
 
 
@@ -71,7 +69,7 @@ I'm 20-year-old on an intention to enhance as a Python Developer. I love buildin
 <img src='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg' alt='postman' height='50'/>
 <br>
 <br>
- ### &nbsp;- Operating Systems
+ ### &nbsp; Operating Systems
  
  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
@@ -85,7 +83,7 @@ I'm 20-year-old on an intention to enhance as a Python Developer. I love buildin
 
 <br> 
 
- ### &nbsp;-
+
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
@@ -97,13 +95,13 @@ I'm 20-year-old on an intention to enhance as a Python Developer. I love buildin
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalparatna" height="230px"/> | <img src="https://readme-jokes.vercel.app/api" height="230px"/> |
 | --- | --- |
 
- ### &nbsp;-
+
 [![Tap to Reload](https://metrics.lecoq.io/sourabmaity?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Kalparatna)
 
 </details>
 
 
- ### &nbsp;-
+
 <!--END_SECTION:activity-->
 
 ## My Trending Repos 💻
