@@ -50,7 +50,6 @@
 | --- | --- |
 ## My Trending Repos 💻
 
-https://github.com/Kalparatna/AgriGenius--GEN-AI-CHATBOT
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=AgriGenius--GEN-AI-CHATBOT&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kalparatna/AgriGenius--GEN-AI-CHATBOT)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=IPL-Team-Predictor-Web-Application&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/Kalparatna/IPL-Team-Predictor-Web-Application)
