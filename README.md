@@ -68,7 +68,9 @@ I'm 20-year-old on an intention to enhance as a Python Developer. I love buildin
 <img src='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg' alt='postman' height='50'/>
 <br>
 <br>
- ### &nbsp;<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### &nbsp;-
+ 
+ <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
 
