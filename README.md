@@ -90,3 +90,6 @@
 
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem2-alpha.vercel.app/api/spotify)](https://open.spotify.com/user/31yhhonqekbyboorcnvzhst7i5iy)
+
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-$(cat views.txt)-blue)
