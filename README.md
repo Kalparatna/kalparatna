@@ -50,13 +50,6 @@
 | --- | --- |
 ## My Trending Repos 💻
 
-
-## My Trending Repos 💻
-
-## My Trending Repos 💻
-
-## My Trending Repos 💻
-
 <div align="center">
   
   <a href="https://github.com/Kalparatna/AgriGenius--GEN-AI-CHATBOT">
