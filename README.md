@@ -4,11 +4,11 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Kalparatna+Mahajan..&hearts;++;Self-taught+Python-Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on ML
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to forward try new things
-- 🤔 I’m looking for a good project
-- 💬 Ask me about Python
+- 🔭 I’m currently working on ML.
+- 🌱 I’m currently learning Django.
+- 👯 I’m looking to forward try new things.
+- 🤔 I’m looking for a good project.
+- 💬 Ask me about Python.
 - 😄 Pronouns: He
 - ⚡ Fun fact: Big fan of 🌈
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 />
