@@ -52,7 +52,7 @@
 
 <div align="center">
   
-  <a href="https://github.com/Kalparatna/AgriGenius--GEN-AI-CHATBOT">
+  <a href="https://github.com/Kalparatna/AgriGenius-GEN-AI-CHATBOT">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=AgriGenius--GEN-AI-CHATBOT&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
   
