@@ -53,47 +53,24 @@
 <div align="center">
   
   <a href="https://github.com/Kalparatna/AgriGenius">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=AgriGenius--GEN-AI-CHATBOT&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=AgriGenius&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
-  
-  <a href="https://github.com/Kalparatna/IPL-Team-Predictor-Web-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=IPL-Team-Predictor-Web-Application&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
-  </a>
-  
-</div>
 
-<div align="center">
-  
-  <a href="https://github.com/Kalparatna/GlobalSpeak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=GlobalSpeak&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
-  </a>
-  
-  <a href="https://github.com/Kalparatna/CCTV-Surveillance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=CCTV-Surveillance&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
-  </a>
-  
-</div>
-
-<div align="center">
-  
-  <a href="https://github.com/Kalparatna/Flask-Todo-Webapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=Flask-Todo-Webapp&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
-  </a>
-  
-  <a href="https://github.com/Kalparatna/RoboSpeaker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=RoboSpeaker&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
-  </a>
-  
-</div>
-
-<div align="center">
-  
   <a href="https://github.com/Kalparatna/SIH-2024_PS1753">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=SIH-2024_PS1753&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
   
-  <a href="https://github.com/Kalparatna/AgriGenius">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=AgriGenius&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
+ 
+  
+</div>
+
+<div align="center">
+ <a href="https://github.com/Kalparatna/IPL-Team-Predictor-Web-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=IPL-Team-Predictor-Web-Application&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
+  </a>
+  
+  <a href="https://github.com/Kalparatna/GlobalSpeak">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=GlobalSpeak&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
   
 </div>
@@ -104,8 +81,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=TraffikTrak&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
   
-  <a href="https://github.com/Kalparatna/ATS-Sytem_Resume_Analysis_Web_Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=ATS-Sytem_Resume_Analysis_Web_Application&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
+  <a href="https://github.com/Kalparatna/CCTV-Surveillance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=CCTV-Surveillance&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
   
 </div>
@@ -114,6 +91,10 @@
   
   <a href="https://github.com/Kalparatna/Student_Course_Enrollment_Management_System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=Student_Course_Enrollment_Management_System&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
+  </a>
+  
+  <a href="https://github.com/Kalparatna/ATS-Sytem_Resume_Analysis_Web_Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalparatna&repo=ATS-Sytem_Resume_Analysis_Web_Application&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff" width="400" style="margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;" />
   </a>
   
 </div>
