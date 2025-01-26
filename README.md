@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning Django.
 - 👯 I’m looking to forward try new things.
 - 🤔 I’m looking for a good project.
-- 💬 Ask me about Python.
+- 💬 Ask me about Python-Django, Mern Stack
 - 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of 🌈
+
 ## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 />
 
 <img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
@@ -49,7 +49,10 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kalparatna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kalparatna&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalparatna&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Kalparatna" height="230px"/> |
 | --- | --- |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=Kalparatna)  ![Jokes Card](https://readme-jokes.vercel.app/api) |
+
 ## My Trending Repos 💻
+
 
 <div align="center">
   
