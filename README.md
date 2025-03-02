@@ -47,7 +47,7 @@
 
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kalparatna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kalparatna&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalparatna&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Kalparatna" height="230px"/> |
+| <a href="https://github.com/Kalparatna/github-readme-stats"><img alt="Kalparatna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kalparatna&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalparatna&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Kalparatna" height="230px"/> |
 | --- | --- |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=Kalparatna)  ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
